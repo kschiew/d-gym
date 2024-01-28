@@ -20,5 +20,9 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "prettier": {
+    "singleQuote": true,
+    "semi": false
+  }
 }
